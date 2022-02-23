@@ -1,0 +1,63 @@
+@import "./Themes";
+
+.background{
+    background-color: #ffffff;
+    .post{
+        width: 80vw;
+        max-width: 1200px;
+        margin: auto;
+        .title-container{
+            width: 100%;
+            margin: auto;
+            padding-top: 70px;
+            border-bottom: 5px solid #004d00;
+            @media screen and (min-width: 700px) {
+                padding-top: 95px;
+            }
+            @media screen and (min-width: 1100px) {
+                padding-top: 125px;
+                border-bottom: none;
+            }
+        }
+        img{
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+            @media screen and (min-width: 1100px) {
+                width: 80%;
+            }
+            @media screen and (min-width: 1400px) {
+                width: 70%;
+            }
+        }
+        h1{
+            margin-left: 0px;
+        }
+        h3{
+            font-style: italic;
+        }
+        .insights-link{
+            text-decoration: none;
+            color: #004d00;
+            border: 2px solid #004d00;
+            border-radius: 5%;
+            padding: 10px;
+            margin-right: 10px;
+        }
+        .date{
+            font-style: italic;
+            font-size: 12px;
+            @media screen and (min-width: 700px) {
+                font-size: 14px;
+            }
+            @media screen and (min-width: 1000px) {
+                font-size: 16px;
+            }
+            @media screen and (min-width: 1100px) {
+                font-size: 18px;
+            }
+            margin-top: 30px;
+        }
+    }
+}
