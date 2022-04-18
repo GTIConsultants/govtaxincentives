@@ -12,9 +12,9 @@ class MapComponent extends Component {
                 google={this.props.google}
                 zoom={15}
                 style={mapStyles}
-                initialCenter={{ lat: 51.370010, lng: -0.096010 }}
+                initialCenter={{ lat: 51.374868, lng: -0.090273 }}
             >
-                <Marker position={{ lat: 51.370010, lng: -0.096010 }} />
+                <Marker position={{ lat: 51.374868, lng: -0.090273 }} />
             </Map>
         );
     }
