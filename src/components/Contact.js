@@ -48,7 +48,7 @@ class Contact extends Component {
                 <MapComponent />
                 <div className="contact-details">
                     <p>hello@govtaxincentives.com</p>
-                    <p>Suite 2.10, 22 Addiscombe Road, Croydon, CR0 5PE</p>
+                    <p>Suite 2.14, 22 Addiscombe Road, Croydon, CR0 5PE</p>
                 </div>
                 <Footer />
             </div>
