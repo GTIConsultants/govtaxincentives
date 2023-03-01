@@ -17,4 +17,6 @@ In addition to the above, the use of minimalist packaging has also gained tracti
 
 In conclusion, innovative packaging solutions are essential to not only improve the brand's image but also to reduce the impact on the environment. With the growing demand for sustainable packaging, companies need to invest in innovative packaging solutions to meet the changing consumer demands and to make a positive impact on the planet.
 
-###### *C﻿redit to Green Journal for the image*
+Please don't hesitate to contact me to discuss potential incentives that could prove to be extremely advantageous!
+
+###### *c﻿redit to Green Journal for the image*
