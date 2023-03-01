@@ -1,9 +1,7 @@
 ---
 title: Innovation in Packaging
-category: HMRC
-description: Innovation in packaging includes the use of biodegradable
-  materials, smart packaging technology, and minimalist packaging to reduce
-  waste and improve sustainability.
+category: innovative packaging
+description: Innovation in packaging to improve sustainability
 date: 2023-03-01T16:06:00.000Z
 thumbnail: /images/green_packaging.png
 ---
